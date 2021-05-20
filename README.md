@@ -9,4 +9,4 @@ Electro Magnetic Pulse is a simple experimentation with a coil woven to a piece 
 This work was done at ENSAD to experiment with arduino, e-textile and 3D printing (case) and was inspired with the concept of haptic communication and Jorge Borges themes (The Library of Babel and Book of sand).
 
 ## Electric diagram :
-<img src="img/EMPULSE_circuit.png" width="256" height="455">
+<img src="img/EMPULSE_circuit.png" width="580">
