@@ -10,3 +10,6 @@ This work was done at ENSAD to experiment with arduino, e-textile and 3D printin
 
 ## Electric diagram :
 <img src="img/EMPULSE_circuit.png" width="580">
+
+## PICS :
+<img src="img/emp01.jpg" width="300"><img src="img/emp02.jpg" width="300"><img src="img/emp03.jpg" width="300">
